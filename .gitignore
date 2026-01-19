@@ -1,0 +1,12 @@
+# Arquivos sensíveis
+resources/variables.robot
+
+# Resultados de execução
+results/
+output.xml
+log.html
+report.html
+
+# Cache / temporários
+*.pyc
+__pycache__/
